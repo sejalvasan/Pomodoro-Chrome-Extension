@@ -30,5 +30,5 @@ https://user-images.githubusercontent.com/69964629/138063621-01f5d696-f911-40bc-
 
 ## Fun Fact 💁
 The Pomodoro Technique, designed by developer and entrepreneur Francesco Cirillo in the 1980s, 
-is named after those cute tomato-shaped kitchen timers that start ticking with a twist of the top. (Pomodoro is the Italian word for tomato.)
+is named after those cute tomato-shaped kitchen timers that start ticking with a twist of the top. (Pomodoro is the Italian word for tomato)
 
